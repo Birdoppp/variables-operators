@@ -25,24 +25,37 @@ console.log(thirdSum);
 // 4. Declareer een variabele en sla daar de uitkomst van 36 gedeeld door 6, maal 2 in op.          // geeft 12 wanneer gelogd
 // ==========================================
 
-const fourthSum = 36*6*2;
+const fourthSum = 36/6*2;
 console.log(fourthSum);
 
 // ==========================================
 // 5. Declareer twee variabelen en zet daarin respectievelijk de waardes 'zoet' en 'sappig'.
 // Declareer nog een variabele en sla daarin de samenvoeging van bovenstaande variabelen in op.     // geeft 'zoetsappig' wanneer gelogd
 // ==========================================
-
+const sweet= "Zoet";
+const juicy="sappig";
+console.log(sweet + juicy);
 
 // ==========================================
 // 6. Declareer een variabele voor jouw voornaam en een variabele voor jouw achternaam en zet de waardes erin.
 // Declareer vervolgens een variabele voor jouw volledige naam en plak bovenstaande variabelen aan elkaar.
 // Zorg dat er een spatie tussen zit zonder iets aan de originele variabelen te veranderen.        // geeft bijv. 'Henk Pieters' wanneer gelogd
 // ==========================================
+const firstName = "Tini";
+const lastName = "Pham";
+const fullName = (firstName+ " " + lastName);
 
+console.log(fullName);
 
 // ==========================================
 // 7. Declareer een variabele voor jouw woonplaats en een variabele voor provincie en zet de waardes erin.
 // Declareer vervolgens een variabele voor jouw locatie en plak jouw de woonplaats en provincie aan elkaar.
 // Zorg dat er een komma en spatie tussen zit zonder iets aan de originele variabelen te veranderen. // geeft bijv. Maastricht, Limburg wanneer gelogd
 // ==========================================
+
+const city="Leidsche Rijn";
+const province = "Utrecht";
+const loction = city+", " +province;
+
+
+console.log(loction);
