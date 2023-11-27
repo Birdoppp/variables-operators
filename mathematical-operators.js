@@ -4,21 +4,29 @@
 // 1. Declareer een variabele en sla daar de uitkomst van 4 plus 5 in op.                           // geeft 9 wanneer gelogd
 // ==========================================
 
+const firstSum = 4+5;
+console.log(firstSum);
 
 // ==========================================
 // 2. Declareer een variabele en sla daar de uitkomst van 7 maal 52 in op.                          // geeft 364 wanneer gelogd
 // ==========================================
 
+const secondSum = 7*52;
+console.log(secondSum);
 
 // ==========================================
 // 3. Declareer een variabele en sla daar de uitkomst van 4 + 3 in op, vermenigvuldigd met 7.       // geeft 49 wanneer gelogd
 // ==========================================
 
+const thirdSum= (4+3)*7;
+console.log(thirdSum);
 
 // ==========================================
 // 4. Declareer een variabele en sla daar de uitkomst van 36 gedeeld door 6, maal 2 in op.          // geeft 12 wanneer gelogd
 // ==========================================
 
+const fourthSum = 36*6*2;
+console.log(fourthSum);
 
 // ==========================================
 // 5. Declareer twee variabelen en zet daarin respectievelijk de waardes 'zoet' en 'sappig'.
