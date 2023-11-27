@@ -1,4 +1,4 @@
-console.log('Zorg dat al jouw uitkomsten één voor één in de terminal worden gelogd! 📖');
+// console.log('Zorg dat al jouw uitkomsten één voor één in de terminal worden gelogd! 📖');
 
 // ==========================================
 // 1. Declareer een variabele en sla daar de uitkomst van 4 plus 5 in op.                           // geeft 9 wanneer gelogd
