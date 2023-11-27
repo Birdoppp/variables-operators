@@ -16,6 +16,7 @@ console.log(name);
 // ==========================================
 const eyeColor = "Brown";
 console.log("Their eyecolor is " + eyeColor);
+
 // ==========================================
 // 3. Declareer een variabele om jouw leeftijd in op te slaan en zet de waarde erin. De variabele moet later overschreven kunnen worden.
 // ==========================================
@@ -50,6 +51,7 @@ if (partner === true) {
 // ==========================================
 let children = 0;
 console.log("has " + children + " children")
+
 // ==========================================
 // 8. Gebruik jouw variabelen nu om hun waardes te loggen in de terminal. Klopt het allemaal?
 // ==========================================
