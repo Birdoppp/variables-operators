@@ -4,36 +4,36 @@
 // 1. Declareer een variabele en sla daar de uitkomst van 4 plus 5 in op.                           // geeft 9 wanneer gelogd
 // ==========================================
 
-const firstSum = 4+5;
+const firstSum = 4 + 5;
 console.log(firstSum);
 
 // ==========================================
 // 2. Declareer een variabele en sla daar de uitkomst van 7 maal 52 in op.                          // geeft 364 wanneer gelogd
 // ==========================================
 
-const secondSum = 7*52;
+const secondSum = 7 * 52;
 console.log(secondSum);
 
 // ==========================================
 // 3. Declareer een variabele en sla daar de uitkomst van 4 + 3 in op, vermenigvuldigd met 7.       // geeft 49 wanneer gelogd
 // ==========================================
 
-const thirdSum= (4+3)*7;
+const thirdSum = (4 + 3) * 7;
 console.log(thirdSum);
 
 // ==========================================
 // 4. Declareer een variabele en sla daar de uitkomst van 36 gedeeld door 6, maal 2 in op.          // geeft 12 wanneer gelogd
 // ==========================================
 
-const fourthSum = 36/6*2;
+const fourthSum = 36 / 6 * 2;
 console.log(fourthSum);
 
 // ==========================================
 // 5. Declareer twee variabelen en zet daarin respectievelijk de waardes 'zoet' en 'sappig'.
 // Declareer nog een variabele en sla daarin de samenvoeging van bovenstaande variabelen in op.     // geeft 'zoetsappig' wanneer gelogd
 // ==========================================
-const sweet= "Zoet";
-const juicy="sappig";
+const sweet = "Zoet";
+const juicy = "sappig";
 console.log(sweet + juicy);
 
 // ==========================================
@@ -43,7 +43,7 @@ console.log(sweet + juicy);
 // ==========================================
 const firstName = "Tini";
 const lastName = "Pham";
-const fullName = (firstName+ " " + lastName);
+const fullName = (firstName + " " + lastName);
 
 console.log(fullName);
 
@@ -53,9 +53,9 @@ console.log(fullName);
 // Zorg dat er een komma en spatie tussen zit zonder iets aan de originele variabelen te veranderen. // geeft bijv. Maastricht, Limburg wanneer gelogd
 // ==========================================
 
-const city="Leidsche Rijn";
+const city = "Leidsche Rijn";
 const province = "Utrecht";
-const loction = city+", " +province;
+const location = city + ", " + province;
 
 
-console.log(loction);
+console.log(location);
